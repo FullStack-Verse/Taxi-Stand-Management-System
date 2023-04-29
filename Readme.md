@@ -1,4 +1,4 @@
-How to run the Auto/Taxi Stand Management Project Using PHP and MySQL
+### How to run the Auto/Taxi Stand Management Project Using PHP and MySQL
 
 1. Download the zip file
 
